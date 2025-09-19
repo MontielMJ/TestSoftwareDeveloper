@@ -1,0 +1,11 @@
+C:\Users\Unico\source\repos\Solution_exam\DirectorioCore\bin\Debug\net6.0\DirectorioCore.deps.json
+C:\Users\Unico\source\repos\Solution_exam\DirectorioCore\bin\Debug\net6.0\DirectorioCore.dll
+C:\Users\Unico\source\repos\Solution_exam\DirectorioCore\bin\Debug\net6.0\DirectorioCore.pdb
+C:\Users\Unico\source\repos\Solution_exam\DirectorioCore\obj\Debug\net6.0\DirectorioCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Unico\source\repos\Solution_exam\DirectorioCore\obj\Debug\net6.0\DirectorioCore.AssemblyInfoInputs.cache
+C:\Users\Unico\source\repos\Solution_exam\DirectorioCore\obj\Debug\net6.0\DirectorioCore.AssemblyInfo.cs
+C:\Users\Unico\source\repos\Solution_exam\DirectorioCore\obj\Debug\net6.0\DirectorioCore.csproj.CoreCompileInputs.cache
+C:\Users\Unico\source\repos\Solution_exam\DirectorioCore\obj\Debug\net6.0\DirectorioCore.dll
+C:\Users\Unico\source\repos\Solution_exam\DirectorioCore\obj\Debug\net6.0\refint\DirectorioCore.dll
+C:\Users\Unico\source\repos\Solution_exam\DirectorioCore\obj\Debug\net6.0\DirectorioCore.pdb
+C:\Users\Unico\source\repos\Solution_exam\DirectorioCore\obj\Debug\net6.0\ref\DirectorioCore.dll

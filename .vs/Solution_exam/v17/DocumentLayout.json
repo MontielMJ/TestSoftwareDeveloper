@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Unico\\source\\repos\\Solution_exam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FCE97BE3-3FE0-46AF-95E6-1B69E0824391}|DirectorioAPI\\DirectorioAPI.csproj|c:\\users\\unico\\source\\repos\\solution_exam\\directorioapi\\data\\directoriodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCE97BE3-3FE0-46AF-95E6-1B69E0824391}|DirectorioAPI\\DirectorioAPI.csproj|solutionrelative:directorioapi\\data\\directoriodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DirectorioDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Unico\\source\\repos\\Solution_exam\\DirectorioAPI\\Data\\DirectorioDbContext.cs",
+              "RelativeDocumentMoniker": "DirectorioAPI\\Data\\DirectorioDbContext.cs",
+              "ToolTip": "C:\\Users\\Unico\\source\\repos\\Solution_exam\\DirectorioAPI\\Data\\DirectorioDbContext.cs",
+              "RelativeToolTip": "DirectorioAPI\\Data\\DirectorioDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T22:19:24.391Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
