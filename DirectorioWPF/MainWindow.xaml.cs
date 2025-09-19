@@ -21,6 +21,7 @@ namespace DirectorioWPF
             DataContext = _personaViewModel;
             LoadPersonas();
             LoadPersonasForComboBox();
+            LoadVentas();
         }
 
         private async void BtnGuardar_Click(object sender, RoutedEventArgs e)
